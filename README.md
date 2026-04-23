@@ -7,7 +7,7 @@ A frontend web application that analyzes potential interactions between multiple
 ## 🔗 Live Demo
 
 > **[Add your live demo link here]** — e.g., deployed on GitHub Pages or Vercel  
-> `https://yourusername.github.io/mediscan`
+> `https://anshuankur.github.io/mediscan`
 
 ---
 
